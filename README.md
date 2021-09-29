@@ -1,2 +1,2 @@
-# 15740-cpu-fpga
+# 15740-riscv-uli
 Computer architecture course research project 
